@@ -1,0 +1,22 @@
+{
+  "name": "DDNetwork",
+  "version": "0.1.0",
+  "summary": "A short description of DDNetwork.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Davis-Hello/DDNetwork",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Davis-Hello": "json_feng@outlook.com"
+  },
+  "source": {
+    "git": "https://github.com/Davis-Hello/DDNetwork.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "DDNetwork/Classes/**/*"
+}
